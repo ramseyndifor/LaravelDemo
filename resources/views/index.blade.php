@@ -58,7 +58,7 @@
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
-							<a href="{{ logout }}" class="login100-form-btn">
+							<a href="signout" class="login100-form-btn">
 								Logout
                             </a>
 						</div>
