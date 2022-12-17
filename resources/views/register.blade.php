@@ -35,7 +35,7 @@
 				<form action="custom-registration" method="POST" class="login100-form validate-form">
 					@csrf
 					<span class="login100-form-title p-b-49">
-						Xashy Signup
+						Xashy Signup Demo Application
 					</span>
 
 					<div class="wrap-input100 validate-input m-b-23" data-validate="Name is reauired">
